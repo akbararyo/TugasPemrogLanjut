@@ -1,0 +1,10 @@
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\bin\Debug\TugasPemrogEvent.exe.config
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\bin\Debug\TugasPemrogEvent.exe
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\bin\Debug\TugasPemrogEvent.pdb
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.csprojAssemblyReference.cache
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.FormCalculator.resources
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.csproj.GenerateResource.cache
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.csproj.CoreCompileInputs.cache
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.exe
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.pdb
+D:\coding\TugasPemrog\TugasPemrogEvent\TugasPemrogEvent\obj\Debug\TugasPemrogEvent.FormHasil.resources
